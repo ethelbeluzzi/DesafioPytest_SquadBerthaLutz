@@ -26,3 +26,7 @@ class TestStrToBool(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+   def test_invalid_value(self):
+        with self.assertRaises(AttributeError):
+            str_to_bool(1)
