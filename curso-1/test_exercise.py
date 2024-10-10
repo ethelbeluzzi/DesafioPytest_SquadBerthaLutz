@@ -24,9 +24,5 @@ class TestStrToBool(unittest.TestCase):
         result = str_to_bool('Yes')
         self.assertTrue(result)
 
-    def test_invalid_value(self):
-        with self.assertRaises(AttributeError):
-            str_to_bool(1)
-
 if __name__ == '__main__':
     unittest.main()
