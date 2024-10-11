@@ -23,10 +23,10 @@ class TestStrToBool(unittest.TestCase):
     def test_yes_is_true(self):
         result = str_to_bool('Yes')
         self.assertTrue(result)
+    def test_invalid_value(self):
+        with self.assertRaises(AttributeError):
+            str_to_bool(1)
 
 if __name__ == '__main__':
     unittest.main()
 
-   def test_invalid_value(self):
-        with self.assertRaises(AttributeError):
-            str_to_bool(1)
