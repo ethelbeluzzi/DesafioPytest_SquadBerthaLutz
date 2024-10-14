@@ -6,8 +6,6 @@ Este repositório contém os exercícios do **Desafio Pytest** do **Bootcamp Bac
 - **[Fazer Testes com Pytest](https://learn.microsoft.com/pt-br/training/modules/test-python-with-pytest/)**
 - **[Teste Avançado com Pytest](https://learn.microsoft.com/pt-br/training/modules/python-advanced-pytest/)**
 
-Os exercícios foram desenvolvidos e testados, com organização e colaboração do squad detalhada abaixo.
-
 ---
 
 ## Integrantes 👩‍💻
