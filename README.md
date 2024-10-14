@@ -12,7 +12,7 @@ Os exercícios foram desenvolvidos e testados, com organização e colaboração
 
 ## Integrantes 👩‍💻
 
-1. **Criação do repositório, criação do read.me e ajuste final dos arquivos**:  
+1. **Criação do repositório, criação do read.me e organização**:  
    - Ethel Panitsa Beluzzi
 
 2. **Exercícios do Curso 1: Introdução a Testes no Python**  
